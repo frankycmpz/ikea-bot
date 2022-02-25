@@ -1,4 +1,4 @@
-# ikea-bot / @ikeaprodbot
+# ikea_bot / @ikeaprodbot
 A Python script that tweets a random Ikea product, or in other words, a pseudo-random product button. Uses Tweepy and Beautiful Soup 4. 
 
 So I used to work at Ikea as a cashier. I was in the mood to make a new bot, and after seeing how busy weekends were at Ikea, I decided this was going to be the next idea.
