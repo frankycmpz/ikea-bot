@@ -4,6 +4,7 @@ A Python script that tweets a random Ikea product, or in other words, a pseudo-r
 So I used to work at Ikea as a cashier. I was in the mood to make a new bot, and after seeing how busy weekends were at Ikea, I decided this was going to be the next idea.
 
 You can visit the bot here: https://twitter.com/ikeabot2
+Not all of the files necessary to replicate the bot are available, sorry :( 
 
 This bot was actually the most difficult bot I'd make yet.
 1. First, there is no official "random product button" on Ikea's website. If that existed, this project would have been significantly easier. That means I had to make one.
